@@ -9,6 +9,6 @@ isto é um comentário de multiplas linhas (docstring)
 '''
 
 #isto é um comentário de uma linha
-print("Olá")
+print("Ola")
 # test
 print(123)
