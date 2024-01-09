@@ -26,9 +26,10 @@ litros consumidos na viagem.
 tempoDecorrido = float(input("Qual o tempo decorrido:?"))
 velocidadeMedia = float(input("Qual o tempo decorrido:?"))
 
-litrosDeCombustiveis
-distanciaPercorrida
 
-D = (T * V)
+distanciaPercorrida = (tempoDecorrido * velocidadeMedia)
 
-L = (D/12)
+litrosDeCombustiveis = (distanciaPercorrida/12)
+
+print("o valor da distancia percorrida é de: ",distanciaPercorrida)
+print("o valor de litros de combustiveis é de: ",litrosDeCombustiveis)
