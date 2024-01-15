@@ -18,6 +18,15 @@ p = 14 * 7
 # operador da divisao / 
 r = 15 / 2
 
+# operador do resto %
+ht = 1 % 2
+
+# operador da exponenciacao ** 
+g = 3 ** 4
+
+# operador de divisao inteira // 
+n = 8 // 9
+
 # ####
 ######## operadores aritmeticos ######## 
  
