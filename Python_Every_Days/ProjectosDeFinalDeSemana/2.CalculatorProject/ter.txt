@@ -1,0 +1,10 @@
+Day09
+
+
+day14 - day9 - Dictionaries & Nesting
+
+
+https://didatica.tech/programador-com-python-curso-completo-para-iniciantes/
+
+
+touch  exerc02.py   exerc03.py  exerc04.py  exerc05.py  exerc06.py  exerc07.py  exerc08.py  exerc09.py  exerc10.py
