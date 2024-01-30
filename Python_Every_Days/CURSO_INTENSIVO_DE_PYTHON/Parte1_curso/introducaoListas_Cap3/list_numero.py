@@ -9,4 +9,4 @@ print(list[0:6])
 
 print(list[:])
 print(list[2:5])
-print(list[1:6:2])
+print(list[1:6:2]) 
