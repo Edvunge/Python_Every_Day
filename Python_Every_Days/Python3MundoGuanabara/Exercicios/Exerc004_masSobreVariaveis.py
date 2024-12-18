@@ -1,0 +1,10 @@
+anything = input("Digite algo: ")
+
+print("O tipo primitivo desse valor é ", type(anything))
+print("O valor digitado é um número? ", anything.isnumeric())
+print("Só tem espaços? ", anything.isspace())
+print("é alfabetic? ", anything.isalpha())
+print("é alfanumerico? ", anything.isalnum())
+print("Esta em mauiscula? ", anything.isupper())
+print("Esta em minuscula? ", anything.islower())
+print("Esta capitalizada? ", anything.istitle())
