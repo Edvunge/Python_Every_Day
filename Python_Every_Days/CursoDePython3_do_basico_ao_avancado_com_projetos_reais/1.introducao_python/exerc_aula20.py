@@ -1,8 +1,0 @@
-primeiro_valor = input('Digite um valor: ')
-segundo_valor = input('Digite outro valor: ')
-
-if primeiro_valor > segundo_valor:
-    print(f'primeiro_valor = {primeiro_valor} é o maior valor que o segundo_valor={segundo_valor}')
-else:
-    print(f'segundo_valor = {segundo_valor} é o maior valor que o primeiro_valor={primeiro_valor}')
-    
